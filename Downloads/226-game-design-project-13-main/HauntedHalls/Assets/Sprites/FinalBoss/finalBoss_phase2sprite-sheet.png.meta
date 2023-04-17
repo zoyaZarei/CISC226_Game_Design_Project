@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 03dd5f829958a4e30b4833e952a4aaf7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5419.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739b8fb0fd1c4709af04120ca6cab13
+      internalID: 1059419327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5419.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088719fac3cc045589a50382d4dd9342
+      internalID: -1813588151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5419.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b4293dcaea4f8383e64cad0264e60
+      internalID: -967442319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 5419.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c240c3d12c44bca7c237b0a19db0b
+      internalID: -1793212257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3613.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52e1cca7f1e44c87915e4ecb6acf758
+      internalID: -681732340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3613.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258cc49696fcf4e1b8722dacbd85b102
+      internalID: -1658792025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3613.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d1901f2aef48318ed536749dd8758
+      internalID: 49746578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 3613.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585fcb1ae4e174a1b8d4ae465df0cb53
+      internalID: -1311791875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1807.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0257d7e027221498aa01ec84ccba7b79
+      internalID: -758514996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1807.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dda6c0ac70e47d0854146c02f1e28b
+      internalID: 1098086740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1807.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf9d461092a4733bb9e72edc69fd4d
+      internalID: 1090654939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1807.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406fdbfbd67434e0291b14253885785e
+      internalID: -1861389656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0139cf234d4c378d6e3ed1dc65f35
+      internalID: 1465994415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1dad9347b54468a2fe2708710c6ce
+      internalID: 1611132659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa880d2761a44c79d8422b94f9e639
+      internalID: 985698574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalBoss_phase2sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1.5
+        width: 2048
+        height: 1806.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be09de1e25524b6688b548ed96031cc
+      internalID: 918835127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      finalBoss_phase2sprite-sheet_3: -1793212257
+      finalBoss_phase2sprite-sheet_0: 1059419327
+      finalBoss_phase2sprite-sheet_10: 1090654939
+      finalBoss_phase2sprite-sheet_13: 1611132659
+      finalBoss_phase2sprite-sheet_7: -1311791875
+      finalBoss_phase2sprite-sheet_2: -967442319
+      finalBoss_phase2sprite-sheet_8: -758514996
+      finalBoss_phase2sprite-sheet_9: 1098086740
+      finalBoss_phase2sprite-sheet_5: -1658792025
+      finalBoss_phase2sprite-sheet_14: 985698574
+      finalBoss_phase2sprite-sheet_1: -1813588151
+      finalBoss_phase2sprite-sheet_6: 49746578
+      finalBoss_phase2sprite-sheet_4: -681732340
+      finalBoss_phase2sprite-sheet_15: 918835127
+      finalBoss_phase2sprite-sheet_12: 1465994415
+      finalBoss_phase2sprite-sheet_11: -1861389656
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

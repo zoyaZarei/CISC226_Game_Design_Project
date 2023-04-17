@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b3d48e1a75d1254449b48204c945b2f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ghost: {instanceID: 0}
+  - body: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - col: {instanceID: 0}
+  - humanBody: {instanceID: 0}
+  - bodyLeft: {fileID: 3943696061962264394, guid: d4c54fa47a1eb439687a978ca5e10f8b, type: 3}
+  - bodyRight: {fileID: 9009807175988893561, guid: 0e563bd15f4804a49b7f19d6637b746c, type: 3}
+  - bodyPosition: {instanceID: 0}
+  - point: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
